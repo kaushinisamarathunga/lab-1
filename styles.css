@@ -6,6 +6,6 @@ body {
 .red-text {
   font-style: italic;
 
-  /* TODO: Make the text colour red instead of blue */
-  color: blue;
+  /* Changed the color of blue to red */
+  color: red;
 }
